@@ -1,4 +1,4 @@
-package studied_algorithms;
+package RecursionSearch;
 
 import java.util.Arrays;
 
